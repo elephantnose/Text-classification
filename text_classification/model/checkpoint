@@ -1,0 +1,2 @@
+model_checkpoint_path: "waimai_model"
+all_model_checkpoint_paths: "waimai_model"
